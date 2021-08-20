@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Color-Pallete-Piano/static/css/main.e351caed.chunk.css",
+    "main.js": "/Color-Pallete-Piano/static/js/main.7b28dc8b.chunk.js",
+    "main.js.map": "/Color-Pallete-Piano/static/js/main.7b28dc8b.chunk.js.map",
+    "runtime-main.js": "/Color-Pallete-Piano/static/js/runtime-main.ac7ede1b.js",
+    "runtime-main.js.map": "/Color-Pallete-Piano/static/js/runtime-main.ac7ede1b.js.map",
+    "static/js/2.c062e7fb.chunk.js": "/Color-Pallete-Piano/static/js/2.c062e7fb.chunk.js",
+    "static/js/2.c062e7fb.chunk.js.map": "/Color-Pallete-Piano/static/js/2.c062e7fb.chunk.js.map",
+    "index.html": "/Color-Pallete-Piano/index.html",
+    "static/css/main.e351caed.chunk.css.map": "/Color-Pallete-Piano/static/css/main.e351caed.chunk.css.map",
+    "static/js/2.c062e7fb.chunk.js.LICENSE.txt": "/Color-Pallete-Piano/static/js/2.c062e7fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac7ede1b.js",
+    "static/js/2.c062e7fb.chunk.js",
+    "static/css/main.e351caed.chunk.css",
+    "static/js/main.7b28dc8b.chunk.js"
+  ]
+}
